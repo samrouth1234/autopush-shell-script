@@ -1,0 +1,16 @@
+## How to Run Shell Script
+
+A shell script is a computer program designed to be run by a Unix shell, a command-line interpreter.
+
+``` bash
+bash namefile shell script
+```
+
+## Example 
+``` bash
+bash authopush.sh
+```
+
+``` bash
+bash samplepush.sh
+```
